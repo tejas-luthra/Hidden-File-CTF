@@ -1,2 +1,2 @@
 # Hidden-File-CTF
-This is a CTF designed for learning navigation of linux. Please use a linux machine or a vm and ONLY the terminal to do these. The Flag Format is CSHS_is_Cool{&lt;Insert Number Here>}.
+This is a CTF designed for learning navigation of linux. Please use a linux machine or a vm and ONLY the terminal to do these. The Flag Format is CSHS_is_Cool{&lt;Insert Number Here>}. Please read the Readme.txt files in every folder before attempting to find the flag. I will also be adding more files here as time goes on so be on the lookout for that. If you are done with the medium ones(Coming Soon), ask me for the OVA file for the hard one. 
